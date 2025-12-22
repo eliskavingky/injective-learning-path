@@ -25,11 +25,11 @@ const HeroSection = () => {
         {/* Subtitle */}
         <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto mb-12 leading-relaxed animate-fade-up opacity-0 animation-delay-200">
           Discover the ultra-fast, interoperable Layer-1 blockchain purpose-built for finance. 
-          Injective enables next-generation DeFi applications with unprecedented speed and zero gas fees.
+          Injective enables next-generation DeFi applications with unprecedented speed and low gas fees.
         </p>
 
         {/* Stats */}
-        <div className="grid grid-cols-3 gap-6 max-w-xl mx-auto animate-fade-up opacity-0 animation-delay-300">
+        <div className="grid grid-cols-2 gap-8 max-w-md mx-auto animate-fade-up opacity-0 animation-delay-300">
           <div className="text-center">
             <p className="font-display text-3xl md:text-4xl font-bold text-gradient">0.8s</p>
             <p className="text-sm text-muted-foreground mt-1">Block Time</p>
@@ -37,10 +37,6 @@ const HeroSection = () => {
           <div className="text-center">
             <p className="font-display text-3xl md:text-4xl font-bold text-gradient">10K+</p>
             <p className="text-sm text-muted-foreground mt-1">TPS</p>
-          </div>
-          <div className="text-center">
-            <p className="font-display text-3xl md:text-4xl font-bold text-gradient">$0</p>
-            <p className="text-sm text-muted-foreground mt-1">Gas Fees</p>
           </div>
         </div>
 
