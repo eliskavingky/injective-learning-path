@@ -71,7 +71,7 @@ const EcosystemPath = () => {
         {
           name: "Grants Program",
           info: "Apply for funding to build on Injective.",
-          url: "https://injective.com/developers/"
+          url: "https://dorahacks.io/injective"
         }
       ]
     }
