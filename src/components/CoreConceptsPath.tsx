@@ -14,7 +14,7 @@ const CoreConceptsPath = () => {
       ],
       cta: {
         label: "Learn About Speed",
-        url: "https://docs.injective.network/learn/basic-concepts/inj_coin"
+        url: "https://docs.injective.network/getting-started/technical-concepts/"
       }
     },
     {
@@ -28,7 +28,7 @@ const CoreConceptsPath = () => {
       ],
       cta: {
         label: "Understand Fee Structure",
-        url: "https://docs.injective.network/learn/basic-concepts/gas_and_fees"
+        url: "https://docs.injective.network/getting-started/gas-and-fees/"
       }
     },
     {
@@ -42,7 +42,7 @@ const CoreConceptsPath = () => {
       ],
       cta: {
         label: "Explore Bridges",
-        url: "https://hub.injective.network/bridge"
+        url: "https://hub.injective.network/bridge/"
       }
     },
     {
@@ -56,7 +56,7 @@ const CoreConceptsPath = () => {
       ],
       cta: {
         label: "Read About MEV Protection",
-        url: "https://docs.injective.network/learn/introduction"
+        url: "https://docs.injective.network/"
       }
     }
   ];

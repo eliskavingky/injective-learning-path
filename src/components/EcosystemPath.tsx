@@ -48,12 +48,12 @@ const EcosystemPath = () => {
         {
           name: "Developer Documentation",
           info: "Complete technical documentation for building on Injective.",
-          url: "https://docs.injective.network/develop/"
+          url: "https://docs.injective.network/developers/"
         },
         {
           name: "Injective TypeScript SDK",
           info: "Official SDK for JavaScript and TypeScript developers.",
-          url: "https://docs.injective.network/develop/sdks/typescript/"
+          url: "https://docs.injective.network/developers/sdks/typescript/"
         }
       ]
     },
