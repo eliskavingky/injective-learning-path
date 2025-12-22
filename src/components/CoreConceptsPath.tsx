@@ -14,7 +14,7 @@ const CoreConceptsPath = () => {
       ],
       cta: {
         label: "Learn About Speed",
-        url: "https://docs.injective.network/getting-started/technical-concepts/"
+        url: "https://docs.injective.network/defi/transactions/"
       }
     },
     {
@@ -28,7 +28,7 @@ const CoreConceptsPath = () => {
       ],
       cta: {
         label: "Understand Fee Structure",
-        url: "https://docs.injective.network/getting-started/gas-and-fees/"
+        url: "https://docs.injective.network/defi/"
       }
     },
     {
@@ -43,20 +43,6 @@ const CoreConceptsPath = () => {
       cta: {
         label: "Explore Bridges",
         url: "https://hub.injective.network/bridge/"
-      }
-    },
-    {
-      number: "04",
-      title: "MEV Resistance",
-      description: "Understand how Injective protects users from front-running and sandwich attacks through its unique order matching system.",
-      keyPoints: [
-        "Frequent batch auctions",
-        "Fair order execution",
-        "Protection against manipulation"
-      ],
-      cta: {
-        label: "Read About MEV Protection",
-        url: "https://docs.injective.network/"
       }
     }
   ];
