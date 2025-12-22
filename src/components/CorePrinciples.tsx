@@ -10,9 +10,9 @@ const principles = [
   },
   {
     icon: Coins,
-    title: "Zero Gas Fees",
-    description: "Injective eliminates the friction of gas fees for end users. Through its unique fee delegation system, applications can sponsor transaction costs, creating a seamless Web2-like experience for DeFi users.",
-    highlight: "Fee-less Trading",
+    title: "Low and Predictable Fees",
+    description: "Injective offers extremely low and predictable transaction fees. Through its unique fee delegation system, applications can sponsor transaction costs, creating a seamless Web2-like experience for DeFi users.",
+    highlight: "Minimal Costs",
     color: "from-emerald-400 to-teal-500",
   },
   {
