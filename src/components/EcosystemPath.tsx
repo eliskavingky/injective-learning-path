@@ -35,7 +35,7 @@ const EcosystemPath = () => {
         {
           name: "Browse NFT Collections",
           info: "Explore trending NFT collections and artists.",
-          url: "https://injective.com/ecosystem/"
+          url: "https://injective.talis.art/"
         }
       ]
     },
@@ -53,7 +53,7 @@ const EcosystemPath = () => {
         {
           name: "Injective TypeScript SDK",
           info: "Official SDK for JavaScript and TypeScript developers.",
-          url: "https://docs.injective.network/developers/sdks/typescript/"
+          url: "https://github.com/InjectiveLabs/injective-ts"
         }
       ]
     },
@@ -66,7 +66,7 @@ const EcosystemPath = () => {
         {
           name: "Ninja Labs Overview",
           info: "Discover projects being incubated by Injective Labs.",
-          url: "https://injective.com/ecosystem/"
+          url: "https://docs.injective.network/"
         },
         {
           name: "Grants Program",
