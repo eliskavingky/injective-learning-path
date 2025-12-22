@@ -19,16 +19,16 @@ const CoreConceptsPath = () => {
     },
     {
       number: "02",
-      title: "Zero Gas Fees Model",
-      description: "Discover Injective's unique approach to transaction costs. Learn how users can trade without worrying about expensive gas fees.",
+      title: "Transaction Fees",
+      description: "Discover Injective's unique approach to transaction costs. Learn how users benefit from extremely low fees compared to other blockchains.",
       keyPoints: [
-        "Near-zero transaction costs",
+        "Extremely low transaction costs",
         "Sustainable fee model",
         "No hidden charges"
       ],
       cta: {
         label: "Understand Fee Structure",
-        url: "https://docs.injective.network/defi/"
+        url: "https://docs.injective.network/defi/transaction-fees"
       }
     },
     {
@@ -42,7 +42,7 @@ const CoreConceptsPath = () => {
       ],
       cta: {
         label: "Explore Bridges",
-        url: "https://hub.injective.network/bridge/"
+        url: "https://hub.injective.network/"
       }
     }
   ];
