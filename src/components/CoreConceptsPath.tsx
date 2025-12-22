@@ -41,8 +41,8 @@ const CoreConceptsPath = () => {
         "Multi-chain asset transfers"
       ],
       cta: {
-        label: "Explore Bridges",
-        url: "https://hub.injective.network/"
+        label: "Open Bridge Guide",
+        url: "https://docs.injective.network/defi/bridge"
       }
     }
   ];
