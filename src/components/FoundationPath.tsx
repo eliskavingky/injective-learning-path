@@ -28,7 +28,7 @@ const FoundationPath = () => {
       ],
       cta: {
         label: "Explore INJ Tokenomics",
-        url: "https://docs.injective.network/getting-started/inj-coin/"
+        url: "https://docs.injective.network/defi/tokens/"
       }
     },
     {
