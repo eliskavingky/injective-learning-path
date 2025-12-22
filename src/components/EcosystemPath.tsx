@@ -12,7 +12,7 @@ const EcosystemPath = () => {
         {
           name: "Helix Exchange",
           info: "The premier decentralized exchange on Injective for spot and derivatives trading.",
-          url: "https://www.helix.markets/"
+          url: "https://helixapp.com/"
         },
         {
           name: "Explore DeFi Ecosystem",
