@@ -66,7 +66,7 @@ const EcosystemPath = () => {
         {
           name: "Ninja Labs Overview",
           info: "Discover projects being incubated by Injective Labs.",
-          url: "https://docs.injective.network/"
+          url: "https://linktr.ee/NinjaLabsKR"
         },
         {
           name: "Grants Program",
