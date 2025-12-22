@@ -14,7 +14,7 @@ const FoundationPath = () => {
       ],
       cta: {
         label: "Read Official Introduction",
-        url: "https://docs.injective.network/learn/introduction"
+        url: "https://docs.injective.network/"
       }
     },
     {
@@ -28,7 +28,7 @@ const FoundationPath = () => {
       ],
       cta: {
         label: "Explore INJ Tokenomics",
-        url: "https://docs.injective.network/learn/injective-hub/inj"
+        url: "https://docs.injective.network/getting-started/inj-coin/"
       }
     },
     {
@@ -42,7 +42,7 @@ const FoundationPath = () => {
       ],
       cta: {
         label: "Wallet Setup Guide",
-        url: "https://hub.injective.network/"
+        url: "https://docs.injective.network/defi/wallet/"
       }
     }
   ];
