@@ -21,7 +21,7 @@ const LearningResources = () => {
       icon: MessageCircle,
       title: "Community Discord",
       description: "Join the community and get help from other developers",
-      url: "https://discord.gg/injective",
+      url: "https://discord.com/invite/injective?utm_source=chatgpt.com",
       color: "indigo"
     },
     {
