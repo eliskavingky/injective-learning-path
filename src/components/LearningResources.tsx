@@ -14,7 +14,7 @@ const LearningResources = () => {
       icon: Video,
       title: "Video Tutorials",
       description: "Watch step-by-step guides and educational content",
-      url: "https://www.youtube.com/c/Injective",
+      url: "https://www.youtube.com/playlist?list=PLTS_stt4XpDB10jGYvpxhmjUmVtqXHCHy",
       color: "red"
     },
     {
