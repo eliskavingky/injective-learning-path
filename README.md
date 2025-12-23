@@ -76,3 +76,6 @@ All external resources belong to their respective owners and are used for educat
 ---
 This project is independently designed and structured.
 Automation tools were used to speed up development.
+
+try the project here: https://injective-learning-path.vercel.app/
+
